@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RestfulieBasecampWrapper.Project">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAQAAAAAAAASAAAACAAAAAABABAAAAgA=</HashCode>
+      <FileName>DomainModel\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Account">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Company">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAIAAAACAQCAQIIAoAAAAAEBAAIAgA=</HashCode>
+      <FileName>DomainModel\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Attachment">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Attachment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Category">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Comment">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Comment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Milestone">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Milestone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.TodoList">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\TodoList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Person">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Post">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>DomainModel\Post.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.Subscription">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\Subscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.TimeEntry">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\TimeEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestfulieBasecampWrapper.DomainModel.TodoItem">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel\TodoItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
